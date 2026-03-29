@@ -1,7 +1,7 @@
 # Proiect KiCad Cluster Contor de Viteza
 
 ## Prezentare Generală
-Acest proiect implică proiectarea unui cluster de contor de viteza folosind KiCad, un software gratuit pentru proiectarea electronica (EDA). Clusterul de contor de viteza va afisa citirile vitezei si alte date relevante pentru aplicatiile automotice.
+Acest proiect implică proiectarea unui cluster de contor de viteza folosind KiCad, un software gratuit pentru proiectarea electronica . Clusterul de contor de viteza va afisa citirile vitezei si alte date relevante pentru aplicatiile automotice.
 
 ## Caracteristici
 - Afisaj digital pentru citirile vitezei
