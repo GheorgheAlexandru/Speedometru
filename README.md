@@ -19,8 +19,8 @@ Acest proiect implică proiectarea unui cluster de contor de viteza folosind KiC
     ```bash
     git clone https://github.com/GheorgheAlexandru/Speedometru.git
     ```
-2. Deschide fisierul proiectului KiCad (`.kicad_pcb`) in KiCad.
-3. Verifica schema si aspectul, efectueaza orice ajustari necesare in functie de nevoile tale.
+2. Deschide fisierul proiectului KiCad (`.kicad_sch`) in KiCad.
+4. Verifica schema si aspectul, efectueaza orice ajustari necesare in functie de nevoile tale.
 
 ## Utilizare
 Dupa ce ai descarcat si deschis proiectul, poti:
