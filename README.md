@@ -22,12 +22,6 @@ Acest proiect implică proiectarea unui cluster de contor de viteza folosind KiC
 2. Deschide fisierul proiectului KiCad (`.kicad_sch`) in KiCad.
 4. Verifica schema si aspectul, efectueaza orice ajustari necesare in functie de nevoile tale.
 
-## Utilizare
-Dupa ce ai descarcat si deschis proiectul, poti:
-- Modifica schema pentru a adauga sau modifica componente.
-- Actualizeaza aspectul PCB dupa cum este necesar pentru fabricatie.
-- Exporta fisierele Gerber pentru productia PCB.
-
 ## Contributii
 Contributiile sunt binevenite! Te rog creeaza o cerere de tragere (pull request) sau trimite probleme pentru imbunatatiri sau bug-uri.
 
